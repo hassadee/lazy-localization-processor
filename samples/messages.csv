@@ -1,0 +1,7 @@
+messages,en,th
+hi,Hi,สวัสดีค่ะ
+bye,Bye,ลาก่อนค่ะ
+Hi-with-name,Hi %name%,สวัสดี %name% ค่ะ
+email_label,Email,อีเมล
+username_min_length,The username must be at least %len% characters.,ความยาวของยูเซอร์เนม ต้องอย่างน้อย %len% ตัวอักษรค่ะ
+cookie_consent_notification,"We uses cookies to improve site functionality and provide you with a better browsing experience. Detailed information on the use of cookies on this Site, and how you can decline them, is provided in our <a href=""{{ url(\'../cookie-policy\') }}"">cookie policy</a>. By using this Site or clicking on ""OK"", you consent to the use of cookies.","เราใช้คุ๊กกี้เพื่อการปรับปรุงพัฒนาฟังก์ชั่นการทำงานของเว็บไซต์นี้เพื่อสร้างประสบการณ์การใช้งานที่ดียิ่งขึ้น สำหรับรายละเอียดของคุ๊กกี้ การยอมรับหรือปฏิเสธ คุณสามารถดูรายละเอียดได้ในลิงก์นี้ <a href=""{{ url(\'../cookie-policy\') }}"">นโยบายด้านคุ๊กกี้</a> หากคุณใช้งานเว็บไซต์ต่อหรือกดปุ่ม ""ตกลง"" หมายความว่าคุณได้ยอมรับการใช้คุ๊กกี้แล้ว"
